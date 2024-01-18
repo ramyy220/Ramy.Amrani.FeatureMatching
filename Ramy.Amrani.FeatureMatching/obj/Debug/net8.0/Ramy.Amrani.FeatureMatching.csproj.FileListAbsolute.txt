@@ -1,0 +1,12 @@
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\bin\Debug\net8.0\Ramy.Amrani.FeatureMatching.deps.json
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\bin\Debug\net8.0\Ramy.Amrani.FeatureMatching.dll
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\bin\Debug\net8.0\Ramy.Amrani.FeatureMatching.pdb
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.AssemblyInfoInputs.cache
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.AssemblyInfo.cs
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.csproj.CoreCompileInputs.cache
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.dll
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\refint\Ramy.Amrani.FeatureMatching.dll
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.pdb
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\ref\Ramy.Amrani.FeatureMatching.dll
+C:\Users\ramya\RiderProjects\Ramy.Amrani.FeatureMatching\Ramy.Amrani.FeatureMatching\obj\Debug\net8.0\Ramy.Amrani.FeatureMatching.csproj.AssemblyReference.cache

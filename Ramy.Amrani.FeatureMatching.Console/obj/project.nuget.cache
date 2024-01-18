@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "geZGeYF+nipeIVfLuqLm7IIwQSZk1r4zPhEpDfDdWQouxomWCaQGgXWc26t7lu4ZO8zstri8vd0x3jSi5dIToQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramya\\RiderProjects\\Ramy.Amrani.FeatureMatching\\Ramy.Amrani.FeatureMatching.Console\\Ramy.Amrani.FeatureMatching.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramya\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\ramya\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\ramya\\.nuget\\packages\\opencvsharp4.extensions\\4.8.0.20230708\\opencvsharp4.extensions.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\ramya\\.nuget\\packages\\opencvsharp4.runtime.osx.10.15-x64\\4.6.0.20230105\\opencvsharp4.runtime.osx.10.15-x64.4.6.0.20230105.nupkg.sha512",
+    "C:\\Users\\ramya\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\ramya\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\ramya\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
